@@ -8,7 +8,7 @@ Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bI
 
 Your team: group number 14
 
-  - Student 1: Oussama + CHAHBI + `Chahbi-oussama`
+  - Student 1: Oussama CHAHBI `Chahbi-oussama`
 
   - Student 2: Marwa ERRAMLA `marwaerr`
   
